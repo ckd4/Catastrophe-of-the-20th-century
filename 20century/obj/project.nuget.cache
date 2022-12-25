@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXIvR13YxTL0G1f+nsBY63W34LYJGhK5WAZzC8uhNaK7/Ay+cmqy6P53VXM4Soenvsz91b+PmmY/dLp0m47KAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ckd4\\source\\repos\\20century\\20century\\20century.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ckd4\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Ckd4\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
